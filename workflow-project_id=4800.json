@@ -1,0 +1,193 @@
+{
+    "message": "",
+    "data": [
+        {
+            "start_date": "2022-09-05T12:40:22.292866Z",
+            "milestone_name": "Campaign Initiation",
+            "end_date": "2022-09-14T03:41:19.021019Z",
+            "status": "IN PROGRESS",
+            "task_details": [
+                {
+                    "id": 53176,
+                    "task_id": 1,
+                    "task_name": "New Sales Request",
+                    "milestone_name": "Campaign Request",
+                    "baseline_days": 1,
+                    "accessRight": "Sales",
+                    "start_date": "2022-09-05T12:40:24.146863Z",
+                    "end_date": "2022-09-05T12:40:24.146867Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "payal (payal@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53177,
+                    "task_id": 2,
+                    "task_name": "Team Creation",
+                    "milestone_name": "Campaign Request",
+                    "baseline_days": 1,
+                    "accessRight": "Management",
+                    "start_date": "2022-09-06T12:40:24.142447Z",
+                    "end_date": "2022-09-06T12:40:24.142447Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "deepak (deepak@ripplelinks.com)",
+                        "nikhil.khinchi (nikhil.khinchi@devkraft.in)",
+                        "payal (payal@ripplelinks.com)",
+                        "sharanjit.singh (sharanjit.singh@devkraft.in)",
+                        "nishant (kv.nishant@devkraft.in)",
+                        "arshharkial (theadsh99@gmail.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53178,
+                    "task_id": 3,
+                    "task_name": "List Creation from the Database",
+                    "milestone_name": "List Creation",
+                    "baseline_days": 1,
+                    "accessRight": "Community",
+                    "start_date": "2022-09-07T03:41:12.154134Z",
+                    "end_date": "2022-09-07T03:41:12.154134Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "darshan (darshan@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53179,
+                    "task_id": 4,
+                    "task_name": "Influencer Outreach- Cost and Intent",
+                    "milestone_name": "List Creation",
+                    "baseline_days": 3,
+                    "accessRight": "Community",
+                    "start_date": "2022-09-06T12:40:25.469832Z",
+                    "end_date": "2022-09-08T12:40:25.469832Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "darshan (darshan@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53180,
+                    "task_id": 5,
+                    "task_name": "Senior Team Approval",
+                    "milestone_name": "List Creation",
+                    "baseline_days": 1,
+                    "accessRight": "Management",
+                    "start_date": "2022-09-08T03:41:14.184029Z",
+                    "end_date": "2022-09-07T03:41:15.456519Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "deepak (deepak@ripplelinks.com)",
+                        "nikhil.khinchi (nikhil.khinchi@devkraft.in)",
+                        "payal (payal@ripplelinks.com)",
+                        "sharanjit.singh (sharanjit.singh@devkraft.in)",
+                        "nishant (kv.nishant@devkraft.in)",
+                        "arshharkial (theadsh99@gmail.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53181,
+                    "task_id": 6,
+                    "task_name": "List sharing with Client",
+                    "milestone_name": "List Creation",
+                    "baseline_days": 1,
+                    "accessRight": "Sales",
+                    "start_date": "2022-09-08T03:41:15.456519Z",
+                    "end_date": "2022-09-08T03:41:15.456519Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "payal (payal@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53182,
+                    "task_id": 7,
+                    "task_name": "Client Approval",
+                    "milestone_name": "List Creation",
+                    "baseline_days": 1,
+                    "accessRight": "Sales",
+                    "start_date": "2022-09-07T03:41:17.577380Z",
+                    "end_date": "2022-09-07T03:41:17.577380Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "payal (payal@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53183,
+                    "task_id": 8,
+                    "task_name": "Management Approval",
+                    "milestone_name": "Campaign Initiation",
+                    "baseline_days": 1,
+                    "accessRight": "Management",
+                    "start_date": "2022-09-08T03:41:17.577380Z",
+                    "end_date": "2022-09-08T03:41:17.577380Z",
+                    "status": "COMPLETED",
+                    "responsible": [
+                        "deepak (deepak@ripplelinks.com)",
+                        "nikhil.khinchi (nikhil.khinchi@devkraft.in)",
+                        "payal (payal@ripplelinks.com)",
+                        "sharanjit.singh (sharanjit.singh@devkraft.in)",
+                        "nishant (kv.nishant@devkraft.in)",
+                        "arshharkial (theadsh99@gmail.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53184,
+                    "task_id": 9,
+                    "task_name": "Final blocking / edits of list with deliverables and cost",
+                    "milestone_name": "Campaign Initiation",
+                    "baseline_days": 2,
+                    "accessRight": "Community",
+                    "start_date": "2022-09-08T03:41:19.021019Z",
+                    "end_date": "2022-09-09T03:41:19.021019Z",
+                    "status": "IN PROGRESS",
+                    "responsible": [
+                        "darshan (darshan@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53185,
+                    "task_id": 10,
+                    "task_name": "Influencer Content Upload",
+                    "milestone_name": "Campaign Initiation",
+                    "baseline_days": 2,
+                    "accessRight": "Community",
+                    "start_date": "2022-09-12T03:41:19.021019Z",
+                    "end_date": "2022-09-13T03:41:19.021019Z",
+                    "status": "NOT STARTED",
+                    "responsible": [
+                        "darshan (darshan@ripplelinks.com)"
+                    ],
+                    "project_id": 4800
+                },
+                {
+                    "id": 53186,
+                    "task_id": 11,
+                    "task_name": "Content Go-Live",
+                    "milestone_name": "Campaign Initiation",
+                    "baseline_days": 3,
+                    "accessRight": "Influencers",
+                    "start_date": "2022-09-12T03:41:19.021019Z",
+                    "end_date": "2022-09-14T03:41:19.021019Z",
+                    "status": "NOT STARTED",
+                    "responsible": [],
+                    "project_id": 4800
+                }
+            ]
+        }
+    ],
+    "error": "",
+    "status": false
+}
